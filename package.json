@@ -1,0 +1,15 @@
+{
+  "name": "word-count",
+  "version": "1.0.0",
+  "description": "counts the amount of repeating words in a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "natt c\u001b[3vakt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
